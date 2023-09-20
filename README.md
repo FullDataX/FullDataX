@@ -19,8 +19,17 @@ Somos el primer Bootcamp del Caribe:
   
 </p>
                                                                                   
-¡Mi Maximo deseo que estén bien! desde muy pequeño mi pasión por la programación me llevo enamorarme de Python, R, Rubi, MySQL y muchos otros lenguajes, después inmerso en el campo TI, mi pasión me llevo por más, por ello escogí Sistemas como carrera universitaria y no podia detenerme al escuchar hablar y ver todo lo que el conjunto del IA y el Machine Learning están logrando, no me podia quedar de brazos cruzados por eso tome la decisión junto con mi gatita Peluche y me especialicé en Data Science con los mejores #SoyHenry. Como Data Science me siento como pez en el agua. Contáctame y conversamos.
+¡Nuestro Maximo deseo que estén bien!, queremos despertar la pasión por la programación y por el lenguaje Python, R, Rubi, MySQL y muchos otros lenguajes, en el campo TI, la pasión te lleva por más, por ello no podiamos quedarnos de brazos cruzados tomamos la decisión junto con un gran equipo de Coach Datacientist y decidimos aperturar el Bootcamp FullDataX para Data Science con los mejores #fulldatax. Como Data Science te sentiras como unverdadero Samuray de los datos. Inscribete con nosotros y unete por la pasión ¡¡¡¡ a codear gente !!!!.
 
+Los pasos para la inscripción son muy faciles:
+
+envia un e-mail a: fulldatax@proton.me
+
+con los siguientes datos:
+
+- Nombres y Apellidos
+
+- 
                                                                                   
 # ***Tecnologías que uso:***
                                                                                   
