@@ -71,7 +71,7 @@ Otras de las ventajas de Git es que cada proyecto posee funciones de colaboraci√
                                                                                                              
 
 <p align="center">
-<img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=100>
+<img src="https://i2.wp.com/tecrada.com/wp-content/uploads/2018/06/Microsoft-Power-BI.jpg?fit=720%2C480&ssl=1" height=100>
 </p>                                                                                                              
 
 # Power BI
