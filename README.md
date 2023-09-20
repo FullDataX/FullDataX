@@ -60,7 +60,7 @@ Luego de Aprobar el Lapso de Nivelación:
 # ***Tecnologías que usaremos:***
                                                                                   
 <p align="center">
-<img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=100>
+<img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=200>
  </p> 
                                                                                                              
 # Git
@@ -71,7 +71,7 @@ Otras de las ventajas de Git es que cada proyecto posee funciones de colaboraci�
                                                                                                              
 
 <p align="center">
-<img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=100>
+<img src="https://i2.wp.com/tecrada.com/wp-content/uploads/2018/06/Microsoft-Power-BI.jpg?fit=720%2C480&ssl=1" height=200>
  </p>                                                                                                           
 
 # Power BI
@@ -81,7 +81,7 @@ Power BI es un conjunto de herramientas, servicios de software y aplicaciones or
                                                                                                          
  
 <p align="center">
-<img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=100>
+<img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=200>
  </p>                                                                                                                     
       
                                                                                                          
