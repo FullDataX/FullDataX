@@ -23,9 +23,10 @@ Somos el primer Bootcamp del Caribe:
 
 ***Los pasos para la inscripción son muy faciles:***
 
-#envia un e-mail a: fulldatax@proton.me
+*envia un e-mail a: fulldatax@proton.me*
 
 **PASO NUMERO 1**
+
 con los siguientes datos:
 - Nombres y Apellidos
 - Edad,  Nacionalidad y Correo electronico
@@ -34,12 +35,14 @@ con los siguientes datos:
 
 
 **PASO NUMERO 2**
+
 Luego recibiras en un plazo no Mayor a 24 Horas:
 - Las instrucciones para cancelar el monto de Inscripción el cual es de $20.00 (20 USD)
 - La Fecha para presentar el examén de Admisión
 - El Material de Estudio para el examen de admisión
 
 **PASO NUMERO 3**
+
 Luego de Aprobar el Examen de Admision:
 - Participaras en nuestra Reunion General de Inicio de Nivelación.
 - Horario
@@ -47,6 +50,7 @@ Luego de Aprobar el Examen de Admision:
 
 
 **PASO NUMERO 4**
+
 Luego de Aprobar el Lapso de Nivelación:
 - Se te indicara la Fecha de Inicio de la Corte
 - Se te enviara via e-mail, nuestra app para mantenernos en contacto
