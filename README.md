@@ -23,7 +23,7 @@ Somos el primer Bootcamp del Caribe:
 
 ***Los pasos para la inscripción son muy faciles:***
 
-*envia un e-mail a: fulldatax@proton.me*
+# *envia un e-mail a: fulldatax@proton.me*
 
 **PASO NUMERO 1**
 
