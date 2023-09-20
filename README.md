@@ -19,13 +19,13 @@ Somos el primer Bootcamp del Caribe:
   
 </p>
                                                                                   
-¡Nuestro Maximo deseo que estén bien!, queremos despertar la pasión por la programación y por el lenguaje Python, R, Rubi, MySQL y muchos otros lenguajes, en el campo TI, la pasión te lleva por más, por ello no podiamos quedarnos de brazos cruzados tomamos la decisión junto con un gran equipo de Coach Datacientist y decidimos aperturar el Bootcamp FullDataX para Data Science con los mejores #fulldatax. Como Data Science te sentiras como unverdadero Samuray de los datos. Inscribete con nosotros y unete por la pasión ¡¡¡¡ a codear gente !!!!.
+¡Nuestro Maximo deseo que estén bien!, queremos despertar la pasión por la programación y por el lenguaje Python, R, Rubi, MySQL y muchos otros lenguajes, en el campo IT, la pasión te lleva por más, por ello no podiamos quedarnos de brazos cruzados, tomamos la decisión junto con un gran equipo de Coach Data Scientist y decidimos aperturar el Bootcamp FullDataX para Data Science con los mejores #fulldatax. Como Data Science te sentiras como unverdadero Samuray de los datos. Inscribete con nosotros y unete por la pasión ¡¡¡¡ a codear gente !!!!.
 
-Los pasos para la inscripción son muy faciles:
+###Los pasos para la inscripción son muy faciles:
 
-envia un e-mail a: fulldatax@proton.me
+#envia un e-mail a: fulldatax@proton.me
 
-PASO NUMERO 1
+##PASO NUMERO 1
 con los siguientes datos:
 - Nombres y Apellidos
 - Edad,  Nacionalidad y Correo electronico
@@ -33,20 +33,20 @@ con los siguientes datos:
 - Indicar el Nivel de Estudio
 
 
-PASO NUMERO 2
+##PASO NUMERO 2
 Luego recibiras en un plazo no Mayor a 24 Horas:
 - Las instrucciones para cancelar el monto de Inscripción el cual es de $20.00 (20 USD)
 - La Fecha para presentar el examén de Admisión
 - El Material de Estudio para el examen de admisión
 
-PASO NUMERO 3
+##PASO NUMERO 3
 Luego de Aprobar el Examen de Admision:
 - Participaras en nuestra Reunion General de Inicio de Nivelación.
 - Horario
 - Inicio de Nivelación.
 
 
-PASO NUMERO 4
+##PASO NUMERO 4
 Luego de Aprobar el Lapso de Nivelación:
 - Se te indicara la Fecha de Inicio de la Corte
 - Se te enviara via e-mail, nuestra app para mantenernos en contacto
