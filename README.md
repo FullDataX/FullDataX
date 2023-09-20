@@ -67,18 +67,17 @@ Luego de Aprobar el Lapso de Nivelación:
                  
 Tener conocimientos de Git es un requisito básico para cualquier científico de datos, ya que  es una de las herramientas más utilizadas para la creación de código fuente. Esta herramienta subsidiaria de Microsoft proporciona alojamiento para el desarrollo de software, la gestión de código fuente (SCM) y  el control de versiones distribuidas usando Git. Git cuenta con una plataforma online llamada GitHub. GitHub permite el alojamiento de proyectos de código abierto, con lo cual, muchos de los códigos fuente se almacenan de forma pública. Esto convierte la aplicación en una especie de banco de código gratuito. Así, esta herramienta permite a los científicos de datos exhibir y publicar sus bloques de código en forma de Gists, compartir su trabajo e intercambiar conocimiento con otros científicos de datos. 
 Otras de las ventajas de Git es que cada proyecto posee funciones de colaboración, de control de  acceso, de seguimiento de errores, de solicitudes de funciones, de integración continua, de wikis y de gestión de tareas. Esta herramienta dispone de una versión gratuita en la que se incluyen sus servicios básicos y de otra de pago con servicios más avanzados pensada para profesionales y empresas.
-                                                                                                                                                                                                                       
-
-<p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIP.mkRMvMUnpmVYBAihTr7eBwHaEO?pid=ImgDet&rs=1" height=200>
- </p>                                                                                                           
-
+                                                                                                                                                                                                                                                                                                                             
 
 # Power BI
                                                                                                          
                                                                                                              
 Power BI es un conjunto de herramientas, servicios de software y aplicaciones orientadas al business intelligence; es decir, a la identificación de KPIs e insights para la toma de mejores decisiones. Es, por lo tanto, una herramienta esencial para el análisis y la visualización de datos en entornos empresariales.
                                                                                                          
+<p align="center">
+<img src="https://tse1.mm.bing.net/th/id/OIP.mkRMvMUnpmVYBAihTr7eBwHaEO?pid=ImgDet&rs=1" height=200>
+  </p>   
+
  
 <p align="center">
 <img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=200>
