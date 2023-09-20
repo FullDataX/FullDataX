@@ -102,11 +102,11 @@ Link: https://github.com/FullDataX
 <img src="https://i.ytimg.com/vi/o-_xr4jgZbs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIGUoTjAP&rs=AOn4CLAu_6JGa-fnSep3zgAVP2HeGMljAA" height=300>
 </p> 
 <p align="center"> 
-Link (https://www.youtube.com/watch?v=o-_xr4jgZbs&t=1s)
+Link (https://drive.google.com/file/d/11tLdDcjp617s7RWNibaEgup1rcQf0Yn6/view)
 </p>                                                                    
 </p> 
 <p align="center"> 
-Link (https://www.loom.com/share/724d0be9fd9b43eca1665f43031269a6)
+Link (https://drive.google.com/file/d/1xV7m2xGsPXElk7LPjehq_w0dtoRDg26f/view?usp=drive_link)
 </p>        
 
 
