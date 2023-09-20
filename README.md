@@ -99,7 +99,7 @@ Link: https://github.com/FullDataX
 ## Destacados
 
 <p align="center"> 
-<img src="https://i.ytimg.com/vi/o-_xr4jgZbs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIGUoTjAP&rs=AOn4CLAu_6JGa-fnSep3zgAVP2HeGMljAA" height=300>
+<img src="https://datasciencedojo.com/wp-content/uploads/Data-Science-Roadmap-2-2048x1168.webp" height=300>
 </p> 
 <p align="center"> 
 Link (https://drive.google.com/file/d/11tLdDcjp617s7RWNibaEgup1rcQf0Yn6/view)
