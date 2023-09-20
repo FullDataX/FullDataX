@@ -4,8 +4,11 @@
 ***Contacto Oficial:*** 
 
 Github: https://www.github.com/FullDataX
+
 e-mail: fulldatax@proton.me
+
 website: https://www.fulldatax.com (EN FUNCIONAMIENTO DESDE EL 25/09/2023)
+
 
 # Bienvenidos al Github oficial de FullDataX
 Somos el primer Bootcamp del Caribe:
