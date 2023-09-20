@@ -25,13 +25,35 @@ Los pasos para la inscripción son muy faciles:
 
 envia un e-mail a: fulldatax@proton.me
 
+PASO NUMERO 1
 con los siguientes datos:
-
 - Nombres y Apellidos
+- Edad,  Nacionalidad y Correo electronico
+- Un breve escrito donde exponga su deseo en estudiar el Bootcamp de Data Science.
+- Indicar el Nivel de Estudio
 
-- 
+
+PASO NUMERO 2
+Luego recibiras en un plazo no Mayor a 24 Horas:
+- Las instrucciones para cancelar el monto de Inscripción el cual es de $20.00 (20 USD)
+- La Fecha para presentar el examén de Admisión
+- El Material de Estudio para el examen de admisión
+
+PASO NUMERO 3
+Luego de Aprobar el Examen de Admision:
+- Participaras en nuestra Reunion General de Inicio de Nivelación.
+- Horario
+- Inicio de Nivelación.
+
+
+PASO NUMERO 4
+Luego de Aprobar el Lapso de Nivelación:
+- Se te indicara la Fecha de Inicio de la Corte
+- Se te enviara via e-mail, nuestra app para mantenernos en contacto
+- Se te enviara el Horario de Estudios
+- Participaras en nuestra Reunion General de Inicio de Corte
                                                                                   
-# ***Tecnologías que uso:***
+# ***Tecnologías que usaremos:***
                                                                                   
 <p align="center">
 <img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=100>
@@ -67,7 +89,7 @@ A pesar de no ser una herramienta en sí, SQL es, sin duda, imprescindible para 
                                                                                                          
 ## Repositorios públicos 
       
-Link: https://github.com/Armegas?tab=repositories     
+Link: https://github.com/FullDataX  
                                                                                                          
                                                                                                          
 ## Destacados
