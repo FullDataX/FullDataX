@@ -9,6 +9,8 @@ e-mail: fulldatax@proton.me
 
 website: https://www.fulldatax.com (EN FUNCIONAMIENTO DESDE EL 25/09/2023)
 
+Facebook: https://www.facebook.com/profile.php?id=61551628022920
+
 
 # Bienvenidos al Github oficial de FullDataX
 Somos el primer Bootcamp del Caribe:
