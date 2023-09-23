@@ -100,7 +100,7 @@ Link: https://github.com/FullDataX
 ## Destacados
 
 <p align="center"> 
-<img src="https://datasciencedojo.com/wp-content/uploads/Data-Science-Roadmap-2-2048x1168.webp" height=300>
+<img src="https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-6/381497784_122098179290054267_5337918839232467880_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=49d041&_nc_ohc=OWzheby6514AX-0Gdxe&_nc_ht=scontent.fccs3-2.fna&oh=00_AfAE1mH0kLHDgQHUhMGfBnM6N2RW17HLa4RT0JkA2c7Gjg&oe=65138A21" height=300>
 </p> 
 <p align="center"> 
 Link (https://drive.google.com/file/d/11tLdDcjp617s7RWNibaEgup1rcQf0Yn6/view)
