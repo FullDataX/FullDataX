@@ -7,7 +7,7 @@ Github: https://www.github.com/FullDataX
 
 e-mail: fulldatax@proton.me
 
-linkedin.com/in/maria-colmenares-173aa7292
+https://www.linkedin.com/in/maria-colmenares-173aa7292
 
 website: https://www.fulldatax.com (EN FUNCIONAMIENTO DESDE EL 25/09/2023)
 
