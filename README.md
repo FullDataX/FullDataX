@@ -42,6 +42,7 @@ con los siguientes datos:
 
 Luego recibiras en un plazo no Mayor a 24 Horas:
 - Las instrucciones para cancelar el monto de Inscripción el cual es de $20.00 (20 USD)
+- Billetera Binance Smart Chain (BNB) 0xcF0d301b6d75BDED2ee04e3fCDbF8ff4c2051a15
 - La Fecha para presentar el examén de Admisión
 - El Material de Estudio para el examen de admisión
 
